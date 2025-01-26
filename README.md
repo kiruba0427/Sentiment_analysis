@@ -24,7 +24,7 @@
 
 📽️ **Visual Representation**  
 
-![Sentiment Analysis Workflow]
+![Sentiment Analysis Workflow](https://github.com/user-attachments/assets/d218ee9b-a3c2-4457-9d3b-d8de9b720750)
 
 ---
 
