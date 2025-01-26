@@ -9,7 +9,7 @@
 🚨 **Disclaimer**: This app is provided for educational purposes only. Please do not misuse or overload the system.
 
 
-📽️ **App Link**: [Sentiment Analysis Live App]((https://huggingface.co/spaces/Kiruba0427/Sentiment-Analysis))  
+📽️ **App Link**: [Sentiment Analysis Live App](https://huggingface.co/spaces/Kiruba0427/Sentiment-Analysis)   
 
 
 ---
